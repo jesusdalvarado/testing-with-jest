@@ -1,4 +1,4 @@
-Running a simple test using Jest and node.js.
+Running tests using Jest, node.js and applying CI with CircleCI
 
 English
 
